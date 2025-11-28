@@ -201,6 +201,12 @@ include(compiler_flags)
 target_link_libraries(${PROJECT_NAME}
                       bgdrtm
                       ${SDL2_MIXER_LIBRARIES}
+                      modplug
+                      xmp
+                      stdc++
+                      opusfile
+                      opus
+                      ogg 
                       SDL2::SDL2-static
                       ${PNG_LIBRARIES}
                       libtre
