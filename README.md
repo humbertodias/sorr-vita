@@ -1,9 +1,10 @@
+[![Build PSVita](https://github.com/humbertodias/sorr-vita/actions/workflows/deploy.yml/badge.svg)](https://github.com/humbertodias/sorr-vita/actions/workflows/deploy.yml)
+
 # SoRR
 
 ### Streets of Rage Remake
 
 This is port of the Streets of Rage Remake (BennuGD engine) game to PSVita.
-
 
 ## Installing
 
